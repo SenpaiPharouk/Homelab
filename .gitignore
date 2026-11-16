@@ -1,0 +1,17 @@
+# LibreOffice temp files
+.~lock.*
+
+# VM images and installers
+*.iso
+*.qcow2
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# Packet captures and secrets
+*.pcap
+*.pcapng
+*.key
+*.pem
+.env
