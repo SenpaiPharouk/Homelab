@@ -4,34 +4,41 @@ Welcome to my **Cybersecurity Homelab** repository!
 
 This repository documents the process of building my personal cybersecurity lab, from preparing my Ubuntu host machine to configuring virtual machines, creating isolated networks, and performing hands-on security exercises.
 
-I'm building this homelab to learn cybersecurity through practical experience and document my progress along the way. I'll be sharing what I build, the tools I use, the challenges I encounter, and how I troubleshoot and solve problems.
+I'm building this homelab to develop practical cybersecurity skills and document the projects I complete along the way. I'll be sharing what I build, the tools I use, the challenges I encounter, and how I troubleshoot and solve problems.
 
 If you're also learning cybersecurity or building your own homelab, I hope my documentation can help you along the way.
 
 ## What This Project Is About
 
-The goal of this project is to create a safe, controlled environment where I can learn and practice cybersecurity concepts without targeting real-world systems.
+The goal of this project is to create a safe, controlled environment where I can explore and practise cybersecurity concepts without targeting real-world systems.
 
-Through this Homelab, I aim to:
+Through this homelab, I aim to:
 
 - Build a virtualised cybersecurity lab on my personal computer.
 - Install and configure Kali Linux as my attacker machine.
-- Deploy deliberately vulnerable virtual machines for practice (metasploitable).
+- Deploy deliberately vulnerable virtual machines for practice (Metasploitable).
 - Configure isolated virtual networks for controlled testing.
 - Learn network scanning and reconnaissance using **Nmap**.
 - Explore vulnerability assessment and exploitation using **Metasploit**.
 - Analyse network traffic and packets using **Wireshark**.
-- Complete a simulated penetration testing project and document the findings.
+- Perform web application security testing using **Burp Suite**.
+- Explore wireless network security and auditing using **Aircrack-ng**.
+- Complete simulated penetration testing projects and document the findings.
 
 ## Tools and Technologies
 
-| Component                 | Technology        |
-| ------------------------- | ----------------- |
-| Host Operating System     | Ubuntu Linux      |
-| Virtualisation            | Oracle VirtualBox |
-| Security Operating System | Kali Linux        |
-| Target Machine            | Metasploitable    |
-| Version Control           | Git and GitHub    |
+| Component | Technology |
+|---|---|
+| Host Operating System | Ubuntu Linux |
+| Virtualisation | Oracle VirtualBox |
+| Security Operating System | Kali Linux |
+| Target Machine | Metasploitable |
+| Network Scanning | Nmap |
+| Exploitation Framework | Metasploit |
+| Network Analysis | Wireshark |
+| Web Application Security | Burp Suite |
+| Wireless Security Auditing | Aircrack-ng |
+| Version Control | Git and GitHub |
 
 ## My Homelab Setup
 
