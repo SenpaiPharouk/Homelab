@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Thu Nov 19 18:25:37 2026 as: /usr/lib/nmap/nmap --privileged -sn -oA scans/01-discovery 192.168.100.0/24
+Host: 192.168.100.20 ()	Status: Up
+Host: 192.168.100.10 ()	Status: Up
+# Nmap done at Thu Nov 19 18:25:39 2026 -- 256 IP addresses (2 hosts up) scanned in 2.05 seconds
